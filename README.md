@@ -1,19 +1,5 @@
 # 🚀 Daily Tech Insights Bot  
 
-
-<p align="center">
-  
-![GitHub repo size](https://img.shields.io/github/repo-size/sadiyabhokare/Daily-tech-insights-bot?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/sadiyabhokare/Daily-tech-insights-bot?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/sadiyabhokare/Daily-tech-insights-bot?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/sadiyabhokare/Daily-tech-insights-bot?color=brightgreen)
-![Made with n8n](https://img.shields.io/badge/Made%20with-n8n-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-</p>
-
----
-
 ## 💸 100% Free & No API Keys Required
 
 Completely free to use — no paid services or API keys required.  
@@ -45,7 +31,7 @@ This bot collects the latest technology news from multiple trusted sources, proc
 
 
 ```
-Daily-Tech-Insights-Bot/
+Daily-tech-insights-bot/
 │── workflow.json
 │── README.md
 │── screenshots/
