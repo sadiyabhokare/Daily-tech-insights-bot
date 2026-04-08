@@ -1,5 +1,7 @@
 # 🚀 Daily Tech Insights Bot  
 
+---
+
 ## 💸 100% Free & No API Keys Required
 
 Completely free to use — no paid services or API keys required.  
@@ -15,20 +17,16 @@ This bot collects the latest technology news from multiple trusted sources, proc
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RSS-Feeds-yellow?style=for-the-badge" />
-</p>
+- ⚙️ n8n (Workflow Automation)  
+- 💻 JavaScript (Code Nodes)  
+- 🌐 RSS Feeds  
+- 🤖 Telegram Bot API  
+- 💬 ZenQuotes API  
+- 🛠️ Git & GitHub 
 
 ---
 
 ## 📁 Project Structure
-
 
 ```
 Daily-tech-insights-bot/
@@ -95,16 +93,6 @@ Daily-tech-insights-bot/
 
 ---
 
-## 🛠️ Tech Stack
-
-* n8n (Workflow Automation)
-* JavaScript (Code Nodes)
-* RSS Feeds
-* Telegram API
-* ZenQuotes API
-
----
-
 ## 🚀 How to Use
 
 1. Import `workflow.json` into n8n
@@ -127,22 +115,8 @@ Daily-tech-insights-bot/
 
 ---
 
-## 📈 Future Improvements
-
-* Add AI summarization
-* Email notifications
-* Web dashboard
-* Category-wise news filtering
-
----
-
 ## 👩‍💻 Author
 
 **Sadiya Bhokare**
-AI & Data Science Student
 
 ---
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and share it!
