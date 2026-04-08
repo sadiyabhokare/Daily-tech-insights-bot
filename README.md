@@ -1,17 +1,22 @@
-# 🚀 Daily Tech Insights Bot
+# 🚀 Daily Tech Insights Bot  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/daily-tech-insights-bot?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/daily-tech-insights-bot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/daily-tech-insights-bot?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/daily-tech-insights-bot)
-![Made with n8n](https://img.shields.io/badge/Made%20with-n8n-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+
+<p align="center">
+  
+![GitHub repo size](https://img.shields.io/github/repo-size/sadiyabhokare/Daily-tech-insights-bot?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/sadiyabhokare/Daily-tech-insights-bot?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/sadiyabhokare/Daily-tech-insights-bot?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/sadiyabhokare/Daily-tech-insights-bot?color=brightgreen)
+![Made with n8n](https://img.shields.io/badge/Made%20with-n8n-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</p>
 
 ---
 
 ## 💸 100% Free & No API Keys Required
 
-Completely free to use — no paid services or API keys required.
+Completely free to use — no paid services or API keys required.  
 Built entirely using public RSS feeds and free integrations.
 
 ---
@@ -22,7 +27,22 @@ This bot collects the latest technology news from multiple trusted sources, proc
 
 ---
 
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RSS-Feeds-yellow?style=for-the-badge" />
+</p>
+
+---
+
 ## 📁 Project Structure
+
 
 ```
 Daily-Tech-Insights-Bot/
